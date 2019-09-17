@@ -14,4 +14,7 @@ Both networks are trained by setting initial `lr=1.0e-1`, `weight_decay=1e-4` an
 - [Bireal-34](http://bit.ly/bireal34)
 
 
-** STAR THE REPO ** If you found it useful :) enough stars and I'll push my complete re-implementation of BiRealNet
+
+### Related Work
+
+BNN+: Improved Binary Network Training: https://arxiv.org/abs/1812.11800
